@@ -1,0 +1,7 @@
+testing_env/
+Commentator_audio/
+Commentator_chopped/
+Crowd_audio/
+Input_mixed_audio/
+*.wav
+```

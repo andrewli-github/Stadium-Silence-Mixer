@@ -23,8 +23,8 @@ if file_path:
     audio = AudioSegment.from_file(file_path)
 
     # Start and end times
-    start_time_str = "01:36:40"  # in HH:MM:SS format
-    end_time_str = "01:41:12"    # in HH:MM:SS format
+    start_time_str = "00:48:34"  # in HH:MM:SS format
+    end_time_str = "00:53:07"    # in HH:MM:SS format
 
     start_time = time_to_milliseconds(start_time_str)
     end_time = time_to_milliseconds(end_time_str)

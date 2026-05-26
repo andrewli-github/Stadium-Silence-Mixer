@@ -5,7 +5,7 @@ from pydub import AudioSegment
 
 # Define the amount to lower the volume (in dB)
 crowd_lowerdB = 15  
-commentator_lowerdB = 6 
+commentator_lowerdB = 2
 
 # set up the file dialog
 root = tk.Tk()

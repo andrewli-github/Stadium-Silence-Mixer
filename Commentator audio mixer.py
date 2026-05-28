@@ -4,8 +4,8 @@ from tkinter import filedialog
 from pydub import AudioSegment  
 
 # Define the amount to lower the volume (in dB)
-crowd_lowerdB = 15  
-commentator_lowerdB = 2
+crowd_lowerdB = 13  
+commentator_lowerdB = 4
 
 # set up the file dialog
 root = tk.Tk()
